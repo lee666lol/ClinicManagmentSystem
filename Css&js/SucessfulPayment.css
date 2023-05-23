@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Dec 20, 2022, 4:02:51 AM
+    Author     : User
+*/
+body{
+    background-color: ghostwhite
+}
+
+.font-title{
+    text-align: center;
+    font-size: 36px;
+    
+}
+.btn-danger{
+    margin-left: 650px;
+    font-size: 20px;
+}

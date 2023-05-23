@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Dec 15, 2022, 2:08:51 AM
+    Author     : User
+*/
+
+body {
+    background: #ccc;
+}
+.form {
+    margin: 50px auto;
+    width: 300px;
+    padding: 30px 25px;
+    background: white;
+}
+.button{
+    margin: auto ;
+    width: 300px;
+   height: 80px;
+}

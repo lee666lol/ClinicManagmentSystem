@@ -1,0 +1,34 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Dec 17, 2022, 7:04:01 AM
+    Author     : User
+*/
+
+body{
+    background-color: ghostwhite;
+}
+
+.table{
+    padding-left: 160px;
+}
+
+.table td{
+    margin: 30px;
+    background-color: white;
+    padding: 20px;
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+}
+
+body h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.btn-shop{
+    padding-left: 1250px;
+}

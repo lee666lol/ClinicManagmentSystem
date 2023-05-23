@@ -1,0 +1,9 @@
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
+.footer li{
+     padding: 20px;
+     display: inline;
+}
